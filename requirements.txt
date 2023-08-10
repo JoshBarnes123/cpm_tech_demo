@@ -1,0 +1,3 @@
+pandas
+requests
+pyopenssl==20.0.0
